@@ -31,13 +31,21 @@ The complete project report, including all graphs, analysis, and conclusions, is
 
 football-performance-analysis/
 ├── README.md ← this file
+
 ├── data/
+
 │ ├── README.md
+
 │ ├── raw/ ← original CSV datasets
+
 │ └── processed/ ← cleaned/processed CSV datasets
+
 ├── notebooks/ ← Jupyter notebooks (.ipynb)
+
 └── report/
+
 ├── README.md
+
 └── football_performance_report.pdf
 
 ## Notes
